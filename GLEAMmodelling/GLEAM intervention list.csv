@@ -1,0 +1,51 @@
+Group,System,Animal_class,GLEAM_module,Intervention variable
+High potential (Global South),Mixed dairy,Milk cows,Feed ration,Increase average Digestible Energy (%)
+High potential (Global South),Mixed dairy,Milk cows,Herd,Reduce age at first calving (months)
+High potential (Global South),Mixed dairy,Herd,Herd,Reduce replacement rate (%)
+High potential (Global South),Mixed dairy,Herd,Herd,Increase female to male ratio
+High potential (Global South),Mixed dairy,Female calves,Herd,Mortality rate (%)
+High potential (Global South),Mixed dairy,Male calves,Herd,Mortality rate (%)
+High potential (Global South),Mixed dairy,Non-calf,Herd,Mortality rate (%)
+High potential (Global South),Mixed dairy,Herd,Manure,Adoption of anaerobic digesters (%)
+High potential (Global South),Specialised beef,Herd,Feed ration,Increase average Digestible Energy (%)
+High potential (Global South),Specialised beef,Milk cows,Herd,Reduce age at first calving (months)
+High potential (Global South),Specialised beef,Herd,Herd,Increased fertility rate (%)
+High potential (Global South),Specialised beef,Female calves,Herd,Mortality rate (%)
+High potential (Global South),Specialised beef,Male calves,Herd,Mortality rate (%)
+High potential (Global South),Specialised beef,Non-calf,Herd,Mortality rate (%)
+High potential (Global South),Specialised beef,Herd,Manure,Adoption of anaerobic digesters (%)
+High potential (Global South),Sheep,Herd,Feed ration,Increase average Digestible Energy (%)
+High potential (Global South),Sheep,Sheep,Herd,Reduce age at first lambing (months)
+High potential (Global South),Sheep,Sheep,Herd,Increased fertility rate (%)
+High potential (Global South),Sheep,Female lambs,Herd,Mortality rate (%)
+High potential (Global South),Sheep,Male lambs,Herd,Mortality rate (%)
+High potential (Global South),Sheep,Non-lamb,Herd,Mortality rate (%)
+High potential (Global South),Goats,Herd,Feed ration,Increase average Digestible Energy (%)
+High potential (Global South),Goats,Does,Herd,Reduce age at first kid (months)
+High potential (Global South),Goats,Does,Herd,Increased fertility rate (%)
+High potential (Global South),Goats,Female kids,Herd,Mortality rate (%)
+High potential (Global South),Goats,Male kids,Herd,Mortality rate (%)
+High potential (Global South),Goats,Non-kid,Herd,Mortality rate (%)
+High potential (Global South),Pigs,Herd,Feed ration,Increase average Digestible Energy (%)
+High potential (Global South),Pigs,Herd,Feed ration,Feed ration N content (g N/kg DM)
+High potential (Global South),Pigs,Herd,Feed ration,Feed ration available energy (kJ/kg DM)
+High potential (Global South),Pigs,Herd,Feed ration,Feed ration digestible energy (kJ/ kg DM)
+High potential (Global South),Pigs,Herd,Feed ration,Feed ration metabolizable energy (kJ/ kg DM)
+High potential (Global South),Pigs,Herd,Feed ration,Feed ration Ei (kg CO2-eq/kg DM)
+High potential (Global South),Pigs,Sow,Herd,Reduce age at first sowing (months)
+High potential (Global South),Pigs,piglet,Herd,Reduced weaning age 
+High potential (Global South),Pigs,Female piglet,Herd,Mortality rate (%)
+High potential (Global South),Pigs,Male piglet,Herd,Mortality rate (%)
+High potential (Global South),Pigs,Replacement,Herd,Mortality rate (%)
+High potential (Global South),Pigs,Fattening,Herd,Mortality rate (%)
+High potential (Global South),Pigs,Herd,Manure,Adoption of anaerobic digesters (%)
+Low potential (Global North),Mixed dairy,Herd,Feed emissions,Reduced embodied Feed ration emissions
+Low potential (Global North),Mixed dairy,Herd,Manure,Adoption of anaerobic digesters (%)
+Low potential (Global North),Specialised dairy,Herd,Feed emissions,Reduced embodied Feed ration emissions
+Low potential (Global North),Specialised dairy,Herd,Manure,Adoption of anaerobic digesters (%)
+Low potential (Global North),Specialised beef,Herd,Feed emissions,Reduced embodied Feed ration emissions
+Low potential (Global North),Specialised beef,Herd,Manure,Adoption of anaerobic digesters (%)
+Low potential (Global North),Sheep,Herd,Feed emissions,Reduced embodied Feed ration emissions
+Low potential (Global North),Goats,Herd,Feed emissions,Reduced embodied Feed ration emissions
+Low potential (Global North),Pigs,Herd,Feed emissions,Reduced embodied Feed ration emissions
+Low potential (Global North),Pigs,Herd,Manure,Adoption of anaerobic digesters (%)

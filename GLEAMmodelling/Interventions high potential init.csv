@@ -1,0 +1,120 @@
+System,Climate,Animal_class,GLEAM_module,Intervention,Baseline,Scenario_lower,Scenario_lower,Notes
+Mixed dairy,Arid,Milk cows,Feed,Increase average Digestible Energy (%),,,,DE scenario is 1-3% improvement per pixel
+Mixed dairy,Arid,Milk cows,Herd,Reduce age at first calving,,,,Assumed 1% increase in digestibility will result in 4% decrease in age at first calving
+Mixed dairy,Arid,Herd,Herd,Reduce replacement rate (%),,,,
+Mixed dairy,Arid,Herd,Herd,Increase female to male ratio,,,,
+Mixed dairy,Arid,Female calves,Herd,Mortality rate (%),,,,
+Mixed dairy,Arid,Male calves,Herd,Mortality rate (%),,,,
+Mixed dairy,Arid,Non-calf,Herd,Mortality rate (%),,,,
+Mixed dairy,Arid,Herd,Manure,Adoption of anaerobic digesters (%),,,,
+Mixed dairy,Humid,Milk cows,Feed,Increase average Digestible Energy (%),,,,DE scenario is 1-3% improvement per pixel
+Mixed dairy,Humid,Milk cows,Herd,Reduce age at first calving,,,,Assumed 1% increase in digestibility will result in 4% decrease in age at first calving
+Mixed dairy,Humid,Herd,Herd,Reduce replacement rate (%),,,,
+Mixed dairy,Humid,Herd,Herd,Increase female to male ratio,,,,
+Mixed dairy,Humid,Female calves,Herd,Mortality rate (%),,,,
+Mixed dairy,Humid,Male calves,Herd,Mortality rate (%),,,,
+Mixed dairy,Humid,Non-calf,Herd,Mortality rate (%),,,,
+Mixed dairy,Humid,Herd,Manure,Adoption of anaerobic digesters (%),,,,
+Mixed dairy,Temperate,Milk cows,Feed,Increase average Digestible Energy (%),,,,DE scenario is 1-3% improvement per pixel
+Mixed dairy,Temperate,Milk cows,Herd,Reduce age at first calving,,,,Assumed 1% increase in digestibility will result in 4% decrease in age at first calving
+Mixed dairy,Temperate,Herd,Herd,Reduce replacement rate (%),,,,
+Mixed dairy,Temperate,Herd,Herd,Increase female to male ratio,,,,
+Mixed dairy,Temperate,Female calves,Herd,Mortality rate (%),,,,
+Mixed dairy,Temperate,Male calves,Herd,Mortality rate (%),,,,
+Mixed dairy,Temperate,Non-calf,Herd,Mortality rate (%),,,,
+Mixed dairy,Temperate,Herd,Manure,Adoption of anaerobic digesters (%),,,,
+Specialised beef,Arid,Herd,Feed,Increase average Digestible Energy (%),,,,DE scenario is 1-3% improvement per pixel
+Specialised beef,Arid,Milk cows,Herd,Reduce age at first calving,,,,Assumed 1% increase in digestibility will result in 4% decrease in age at first calving
+Specialised beef,Arid,Herd,Herd,Increased fertility rate (%),,,,
+Specialised beef,Arid,Female calves,Herd,Mortality rate (%),,,,
+Specialised beef,Arid,Male calves,Herd,Mortality rate (%),,,,
+Specialised beef,Arid,Non-calf,Herd,Mortality rate (%),,,,
+Specialised beef,Humid,Herd,Feed,Increase average Digestible Energy (%),,,,DE scenario is 1-3% improvement per pixel
+Specialised beef,Humid,Milk cows,Herd,Reduce age at first calving,,,,Assumed 1% increase in digestibility will result in 4% decrease in age at first calving
+Specialised beef,Humid,Herd,Herd,Increased fertility rate (%),,,,
+Specialised beef,Humid,Female calves,Herd,Mortality rate (%),,,,
+Specialised beef,Humid,Male calves,Herd,Mortality rate (%),,,,
+Specialised beef,Humid,Non-calf,Herd,Mortality rate (%),,,,
+Specialised beef,Humid,Herd,Manure,Adoption of anaerobic digesters (%),,,,
+Specialised beef,Temperate,Herd,Feed,Increase average Digestible Energy (%),,,,DE scenario is 1-3% improvement per pixel
+Specialised beef,Temperate,Milk cows,Herd,Reduce age at first calving,,,,Assumed 1% increase in digestibility will result in 4% decrease in age at first calving
+Specialised beef,Temperate,Herd,Herd,Increased fertility rate (%),,,,
+Specialised beef,Temperate,Female calves,Herd,Mortality rate (%),,,,
+Specialised beef,Temperate,Male calves,Herd,Mortality rate (%),,,,
+Specialised beef,Temperate,Non-calf,Herd,Mortality rate (%),,,,
+Specialised beef,Temperate,Herd,Manure,Adoption of anaerobic digesters (%),,,,
+Sheep,Arid,Herd,Feed,Increase average Digestible Energy (%),,,,DE scenario is 1-3% improvement per pixel
+Sheep,Arid,Sheep,Herd,Reduce age at first lambing,,,,Assumed 1% increase in digestibility will result in 4% decrease in age at first calving
+Sheep,Arid,Sheep,Herd,Increased fertility rate (%),,,,
+Sheep,Arid,Female lambs,Herd,Mortality rate (%),,,,
+Sheep,Arid,Male lambs,Herd,Mortality rate (%),,,,
+Sheep,Arid,Non-lamb,Herd,Mortality rate (%),,,,
+Sheep,Humid,Herd,Feed,Increase average Digestible Energy (%),,,,DE scenario is 1-3% improvement per pixel
+Sheep,Humid,Sheep,Herd,Reduce age at first lambing,,,,Assumed 1% increase in digestibility will result in 4% decrease in age at first calving
+Sheep,Humid,Sheep,Herd,Increased fertility rate (%),,,,
+Sheep,Humid,Female lambs,Herd,Mortality rate (%),,,,
+Sheep,Humid,Male lambs,Herd,Mortality rate (%),,,,
+Sheep,Humid,Non-lamb,Herd,Mortality rate (%),,,,
+Sheep,Temperate,Herd,Feed,Increase average Digestible Energy (%),,,,
+Sheep,Temperate,Sheep,Herd,Reduce age at first lambing,,,,
+Sheep,Temperate,Sheep,Herd,Increased fertility rate (%),,,,
+Sheep,Temperate,Female lambs,Herd,Mortality rate (%),,,,
+Sheep,Temperate,Male lambs,Herd,Mortality rate (%),,,,
+Sheep,Temperate,Non-lamb,Herd,Mortality rate (%),,,,
+Goats,Arid,Herd,Feed,Increase average Digestible Energy (%),,,,
+Goats,Arid,Does,Herd,Reduce age at first lambing,,,,
+Goats,Arid,Does,Herd,Increased fertility rate (%),,,,
+Goats,Arid,Female kids,Herd,Mortality rate (%),,,,
+Goats,Arid,Male kids,Herd,Mortality rate (%),,,,
+Goats,Arid,Non-kid,Herd,Mortality rate (%),,,,
+Goats,Humid,Herd,Feed,Increase average Digestible Energy (%),,,,
+Goats,Humid,Does,Herd,Reduce age at first lambing,,,,
+Goats,Humid,Does,Herd,Increased fertility rate (%),,,,
+Goats,Humid,Female kids,Herd,Mortality rate (%),,,,
+Goats,Humid,Male kids,Herd,Mortality rate (%),,,,
+Goats,Humid,Non-kid,Herd,Mortality rate (%),,,,
+Goats,Temperate,Herd,Feed,Increase average Digestible Energy (%),,,,
+Goats,Temperate,Does,Herd,Reduce age at first lambing,,,,
+Goats,Temperate,Does,Herd,Increased fertility rate (%),,,,
+Goats,Temperate,Female kids,Herd,Mortality rate (%),,,,
+Goats,Temperate,Male kids,Herd,Mortality rate (%),,,,
+Goats,Temperate,Non-kid,Herd,Mortality rate (%),,,,
+Pigs,Arid,Herd,Feed,Increase average Digestible Energy (%),,,,
+Pigs,Arid,Herd,Feed,Feed N content (g N/kg DM),,,,Increased by 50% of difference with 90th%ile in each region or agro-ecological zone
+Pigs,Arid,Herd,Feed,Feed available energy (kJ/kg DM),,,,Increased by 50% of difference with 90th%ile in each region or agro-ecological zone
+Pigs,Arid,Herd,Feed,Feed digestible energy (kJ/ kg DM),,,,Increased by 50% of difference with 90th%ile in each region or agro-ecological zone
+Pigs,Arid,Herd,Feed,Feed metabolizable energy (kJ/ kg DM),,,,Increased by 50% of difference with 90th%ile in each region or agro-ecological zone
+Pigs,Arid,Herd,Feed,Feed Ei (kg CO2-eq/kg DM),,,,Increased by 50% of difference with 90th%ile in each region or agro-ecological zone
+Pigs,Arid,Sow,Herd,Reduce age at first sowing,,,,
+Pigs,Arid,piglet,Herd,Reduced weaning age,,,,
+Pigs,Arid,Female piglet,Herd,Mortality rate (%),,,,
+Pigs,Arid,Male piglet,Herd,Mortality rate (%),,,,
+Pigs,Arid,Replacement,Herd,Mortality rate (%),,,,
+Pigs,Arid,Fattening,Herd,Mortality rate (%),,,,
+Pigs,Arid,Herd,Manure,Adoption of anaerobic digesters (%),,,,
+Pigs,Humid,Herd,Feed,Increase average Digestible Energy (%),,,,
+Pigs,Humid,Herd,Feed,Feed N content (g N/kg DM),,,,Increased by 50% of difference with 90th%ile in each region or agro-ecological zone
+Pigs,Humid,Herd,Feed,Feed available energy (kJ/kg DM),,,,Increased by 50% of difference with 90th%ile in each region or agro-ecological zone
+Pigs,Humid,Herd,Feed,Feed digestible energy (kJ/ kg DM),,,,Increased by 50% of difference with 90th%ile in each region or agro-ecological zone
+Pigs,Humid,Herd,Feed,Feed metabolizable energy (kJ/ kg DM),,,,Increased by 50% of difference with 90th%ile in each region or agro-ecological zone
+Pigs,Humid,Herd,Feed,Feed Ei (kg CO2-eq/kg DM),,,,Increased by 50% of difference with 90th%ile in each region or agro-ecological zone
+Pigs,Humid,Sow,Herd,Reduce age at first sowing,,,,
+Pigs,Humid,piglet,Herd,Reduced weaning age,,,,
+Pigs,Humid,Female piglet,Herd,Mortality rate (%),,,,
+Pigs,Humid,Male piglet,Herd,Mortality rate (%),,,,
+Pigs,Humid,Replacement,Herd,Mortality rate (%),,,,
+Pigs,Humid,Fattening,Herd,Mortality rate (%),,,,
+Pigs,Humid,Herd,Manure,Adoption of anaerobic digesters (%),,,,
+Pigs,Temperate,Herd,Feed,Increase average Digestible Energy (%),,,,
+Pigs,Temperate,Herd,Feed,Feed N content (g N/kg DM),,,,Increased by 50% of difference with 90th%ile in each region or agro-ecological zone
+Pigs,Temperate,Herd,Feed,Feed available energy (kJ/kg DM),,,,Increased by 50% of difference with 90th%ile in each region or agro-ecological zone
+Pigs,Temperate,Herd,Feed,Feed digestible energy (kJ/ kg DM),,,,Increased by 50% of difference with 90th%ile in each region or agro-ecological zone
+Pigs,Temperate,Herd,Feed,Feed metabolizable energy (kJ/ kg DM),,,,Increased by 50% of difference with 90th%ile in each region or agro-ecological zone
+Pigs,Temperate,Herd,Feed,Feed Ei (kg CO2-eq/kg DM),,,,Increased by 50% of difference with 90th%ile in each region or agro-ecological zone
+Pigs,Temperate,Sow,Herd,Reduce age at first sowing,,,,
+Pigs,Temperate,piglet,Herd,Reduced weaning age,,,,
+Pigs,Temperate,Female piglet,Herd,Mortality rate (%),,,,
+Pigs,Temperate,Male piglet,Herd,Mortality rate (%),,,,
+Pigs,Temperate,Replacement,Herd,Mortality rate (%),,,,
+Pigs,Temperate,Fattening,Herd,Mortality rate (%),,,,
+Pigs,Temperate,Herd,Manure,Adoption of anaerobic digesters (%),,,,

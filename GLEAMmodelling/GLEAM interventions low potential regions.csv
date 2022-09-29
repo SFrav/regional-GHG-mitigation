@@ -1,0 +1,601 @@
+"","Group","Continent","Name","Acronym","System","Climate","Animal_class","GLEAM_module","Intervention","Baseline","Scenario_lower","Scenario_lower.1","Notes"
+"1","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Mixed dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"2","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Mixed dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"3","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Mixed dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"4","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Mixed dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"5","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Mixed dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"6","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Mixed dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"7","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Specialised dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"8","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Specialised dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"9","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Specialised dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"10","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Specialised dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"11","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Specialised dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"12","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Specialised dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"13","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Specialised beef","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"14","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Specialised beef","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"15","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Specialised beef","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"16","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Specialised beef","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"17","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Specialised beef","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"18","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Specialised beef","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"19","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Sheep","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"20","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Sheep","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"21","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Sheep","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"22","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Goats","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"23","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Goats","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"24","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Goats","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"25","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Pigs","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"26","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Pigs","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"27","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Pigs","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"28","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Pigs","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"29","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Pigs","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"30","Low potential","NORTH-AMERICA","N.W.North-America","NWN","Pigs","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"31","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Mixed dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"32","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Mixed dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"33","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Mixed dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"34","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Mixed dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"35","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Mixed dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"36","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Mixed dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"37","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Specialised dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"38","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Specialised dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"39","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Specialised dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"40","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Specialised dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"41","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Specialised dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"42","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Specialised dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"43","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Specialised beef","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"44","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Specialised beef","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"45","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Specialised beef","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"46","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Specialised beef","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"47","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Specialised beef","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"48","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Specialised beef","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"49","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Sheep","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"50","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Sheep","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"51","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Sheep","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"52","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Goats","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"53","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Goats","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"54","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Goats","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"55","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Pigs","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"56","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Pigs","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"57","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Pigs","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"58","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Pigs","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"59","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Pigs","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"60","Low potential","NORTH-AMERICA","N.E.North-America","NEN","Pigs","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"61","Low potential","NORTH-AMERICA","W.North-America","WNA","Mixed dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"62","Low potential","NORTH-AMERICA","W.North-America","WNA","Mixed dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"63","Low potential","NORTH-AMERICA","W.North-America","WNA","Mixed dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"64","Low potential","NORTH-AMERICA","W.North-America","WNA","Mixed dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"65","Low potential","NORTH-AMERICA","W.North-America","WNA","Mixed dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"66","Low potential","NORTH-AMERICA","W.North-America","WNA","Mixed dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"67","Low potential","NORTH-AMERICA","W.North-America","WNA","Specialised dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"68","Low potential","NORTH-AMERICA","W.North-America","WNA","Specialised dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"69","Low potential","NORTH-AMERICA","W.North-America","WNA","Specialised dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"70","Low potential","NORTH-AMERICA","W.North-America","WNA","Specialised dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"71","Low potential","NORTH-AMERICA","W.North-America","WNA","Specialised dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"72","Low potential","NORTH-AMERICA","W.North-America","WNA","Specialised dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"73","Low potential","NORTH-AMERICA","W.North-America","WNA","Specialised beef","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"74","Low potential","NORTH-AMERICA","W.North-America","WNA","Specialised beef","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"75","Low potential","NORTH-AMERICA","W.North-America","WNA","Specialised beef","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"76","Low potential","NORTH-AMERICA","W.North-America","WNA","Specialised beef","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"77","Low potential","NORTH-AMERICA","W.North-America","WNA","Specialised beef","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"78","Low potential","NORTH-AMERICA","W.North-America","WNA","Specialised beef","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"79","Low potential","NORTH-AMERICA","W.North-America","WNA","Sheep","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"80","Low potential","NORTH-AMERICA","W.North-America","WNA","Sheep","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"81","Low potential","NORTH-AMERICA","W.North-America","WNA","Sheep","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"82","Low potential","NORTH-AMERICA","W.North-America","WNA","Goats","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"83","Low potential","NORTH-AMERICA","W.North-America","WNA","Goats","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"84","Low potential","NORTH-AMERICA","W.North-America","WNA","Goats","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"85","Low potential","NORTH-AMERICA","W.North-America","WNA","Pigs","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"86","Low potential","NORTH-AMERICA","W.North-America","WNA","Pigs","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"87","Low potential","NORTH-AMERICA","W.North-America","WNA","Pigs","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"88","Low potential","NORTH-AMERICA","W.North-America","WNA","Pigs","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"89","Low potential","NORTH-AMERICA","W.North-America","WNA","Pigs","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"90","Low potential","NORTH-AMERICA","W.North-America","WNA","Pigs","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"91","Low potential","NORTH-AMERICA","C.North-America","CNA","Mixed dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"92","Low potential","NORTH-AMERICA","C.North-America","CNA","Mixed dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"93","Low potential","NORTH-AMERICA","C.North-America","CNA","Mixed dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"94","Low potential","NORTH-AMERICA","C.North-America","CNA","Mixed dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"95","Low potential","NORTH-AMERICA","C.North-America","CNA","Mixed dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"96","Low potential","NORTH-AMERICA","C.North-America","CNA","Mixed dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"97","Low potential","NORTH-AMERICA","C.North-America","CNA","Specialised dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"98","Low potential","NORTH-AMERICA","C.North-America","CNA","Specialised dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"99","Low potential","NORTH-AMERICA","C.North-America","CNA","Specialised dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"100","Low potential","NORTH-AMERICA","C.North-America","CNA","Specialised dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"101","Low potential","NORTH-AMERICA","C.North-America","CNA","Specialised dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"102","Low potential","NORTH-AMERICA","C.North-America","CNA","Specialised dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"103","Low potential","NORTH-AMERICA","C.North-America","CNA","Specialised beef","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"104","Low potential","NORTH-AMERICA","C.North-America","CNA","Specialised beef","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"105","Low potential","NORTH-AMERICA","C.North-America","CNA","Specialised beef","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"106","Low potential","NORTH-AMERICA","C.North-America","CNA","Specialised beef","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"107","Low potential","NORTH-AMERICA","C.North-America","CNA","Specialised beef","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"108","Low potential","NORTH-AMERICA","C.North-America","CNA","Specialised beef","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"109","Low potential","NORTH-AMERICA","C.North-America","CNA","Sheep","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"110","Low potential","NORTH-AMERICA","C.North-America","CNA","Sheep","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"111","Low potential","NORTH-AMERICA","C.North-America","CNA","Sheep","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"112","Low potential","NORTH-AMERICA","C.North-America","CNA","Goats","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"113","Low potential","NORTH-AMERICA","C.North-America","CNA","Goats","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"114","Low potential","NORTH-AMERICA","C.North-America","CNA","Goats","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"115","Low potential","NORTH-AMERICA","C.North-America","CNA","Pigs","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"116","Low potential","NORTH-AMERICA","C.North-America","CNA","Pigs","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"117","Low potential","NORTH-AMERICA","C.North-America","CNA","Pigs","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"118","Low potential","NORTH-AMERICA","C.North-America","CNA","Pigs","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"119","Low potential","NORTH-AMERICA","C.North-America","CNA","Pigs","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"120","Low potential","NORTH-AMERICA","C.North-America","CNA","Pigs","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"121","Low potential","NORTH-AMERICA","E.North-America","ENA","Mixed dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"122","Low potential","NORTH-AMERICA","E.North-America","ENA","Mixed dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"123","Low potential","NORTH-AMERICA","E.North-America","ENA","Mixed dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"124","Low potential","NORTH-AMERICA","E.North-America","ENA","Mixed dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"125","Low potential","NORTH-AMERICA","E.North-America","ENA","Mixed dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"126","Low potential","NORTH-AMERICA","E.North-America","ENA","Mixed dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"127","Low potential","NORTH-AMERICA","E.North-America","ENA","Specialised dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"128","Low potential","NORTH-AMERICA","E.North-America","ENA","Specialised dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"129","Low potential","NORTH-AMERICA","E.North-America","ENA","Specialised dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"130","Low potential","NORTH-AMERICA","E.North-America","ENA","Specialised dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"131","Low potential","NORTH-AMERICA","E.North-America","ENA","Specialised dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"132","Low potential","NORTH-AMERICA","E.North-America","ENA","Specialised dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"133","Low potential","NORTH-AMERICA","E.North-America","ENA","Specialised beef","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"134","Low potential","NORTH-AMERICA","E.North-America","ENA","Specialised beef","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"135","Low potential","NORTH-AMERICA","E.North-America","ENA","Specialised beef","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"136","Low potential","NORTH-AMERICA","E.North-America","ENA","Specialised beef","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"137","Low potential","NORTH-AMERICA","E.North-America","ENA","Specialised beef","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"138","Low potential","NORTH-AMERICA","E.North-America","ENA","Specialised beef","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"139","Low potential","NORTH-AMERICA","E.North-America","ENA","Sheep","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"140","Low potential","NORTH-AMERICA","E.North-America","ENA","Sheep","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"141","Low potential","NORTH-AMERICA","E.North-America","ENA","Sheep","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"142","Low potential","NORTH-AMERICA","E.North-America","ENA","Goats","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"143","Low potential","NORTH-AMERICA","E.North-America","ENA","Goats","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"144","Low potential","NORTH-AMERICA","E.North-America","ENA","Goats","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"145","Low potential","NORTH-AMERICA","E.North-America","ENA","Pigs","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"146","Low potential","NORTH-AMERICA","E.North-America","ENA","Pigs","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"147","Low potential","NORTH-AMERICA","E.North-America","ENA","Pigs","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"148","Low potential","NORTH-AMERICA","E.North-America","ENA","Pigs","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"149","Low potential","NORTH-AMERICA","E.North-America","ENA","Pigs","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"150","Low potential","NORTH-AMERICA","E.North-America","ENA","Pigs","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"151","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Mixed dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"152","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Mixed dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"153","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Mixed dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"154","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Mixed dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"155","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Mixed dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"156","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Mixed dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"157","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Specialised dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"158","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Specialised dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"159","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Specialised dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"160","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Specialised dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"161","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Specialised dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"162","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Specialised dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"163","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Specialised beef","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"164","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Specialised beef","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"165","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Specialised beef","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"166","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Specialised beef","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"167","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Specialised beef","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"168","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Specialised beef","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"169","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Sheep","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"170","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Sheep","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"171","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Sheep","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"172","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Goats","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"173","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Goats","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"174","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Goats","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"175","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Pigs","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"176","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Pigs","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"177","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Pigs","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"178","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Pigs","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"179","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Pigs","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"180","Low potential","CENTRAL-AMERICA","N.Central-America","NCA","Pigs","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"181","Low potential","EUROPE","N.Europe","NEU","Mixed dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"182","Low potential","EUROPE","N.Europe","NEU","Mixed dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"183","Low potential","EUROPE","N.Europe","NEU","Mixed dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"184","Low potential","EUROPE","N.Europe","NEU","Mixed dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"185","Low potential","EUROPE","N.Europe","NEU","Mixed dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"186","Low potential","EUROPE","N.Europe","NEU","Mixed dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"187","Low potential","EUROPE","N.Europe","NEU","Specialised dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"188","Low potential","EUROPE","N.Europe","NEU","Specialised dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"189","Low potential","EUROPE","N.Europe","NEU","Specialised dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"190","Low potential","EUROPE","N.Europe","NEU","Specialised dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"191","Low potential","EUROPE","N.Europe","NEU","Specialised dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"192","Low potential","EUROPE","N.Europe","NEU","Specialised dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"193","Low potential","EUROPE","N.Europe","NEU","Specialised beef","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"194","Low potential","EUROPE","N.Europe","NEU","Specialised beef","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"195","Low potential","EUROPE","N.Europe","NEU","Specialised beef","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"196","Low potential","EUROPE","N.Europe","NEU","Specialised beef","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"197","Low potential","EUROPE","N.Europe","NEU","Specialised beef","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"198","Low potential","EUROPE","N.Europe","NEU","Specialised beef","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"199","Low potential","EUROPE","N.Europe","NEU","Sheep","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"200","Low potential","EUROPE","N.Europe","NEU","Sheep","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"201","Low potential","EUROPE","N.Europe","NEU","Sheep","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"202","Low potential","EUROPE","N.Europe","NEU","Goats","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"203","Low potential","EUROPE","N.Europe","NEU","Goats","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"204","Low potential","EUROPE","N.Europe","NEU","Goats","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"205","Low potential","EUROPE","N.Europe","NEU","Pigs","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"206","Low potential","EUROPE","N.Europe","NEU","Pigs","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"207","Low potential","EUROPE","N.Europe","NEU","Pigs","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"208","Low potential","EUROPE","N.Europe","NEU","Pigs","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"209","Low potential","EUROPE","N.Europe","NEU","Pigs","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"210","Low potential","EUROPE","N.Europe","NEU","Pigs","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"211","Low potential","EUROPE","West&Central-Europe","WCE","Mixed dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"212","Low potential","EUROPE","West&Central-Europe","WCE","Mixed dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"213","Low potential","EUROPE","West&Central-Europe","WCE","Mixed dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"214","Low potential","EUROPE","West&Central-Europe","WCE","Mixed dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"215","Low potential","EUROPE","West&Central-Europe","WCE","Mixed dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"216","Low potential","EUROPE","West&Central-Europe","WCE","Mixed dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"217","Low potential","EUROPE","West&Central-Europe","WCE","Specialised dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"218","Low potential","EUROPE","West&Central-Europe","WCE","Specialised dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"219","Low potential","EUROPE","West&Central-Europe","WCE","Specialised dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"220","Low potential","EUROPE","West&Central-Europe","WCE","Specialised dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"221","Low potential","EUROPE","West&Central-Europe","WCE","Specialised dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"222","Low potential","EUROPE","West&Central-Europe","WCE","Specialised dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"223","Low potential","EUROPE","West&Central-Europe","WCE","Specialised beef","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"224","Low potential","EUROPE","West&Central-Europe","WCE","Specialised beef","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"225","Low potential","EUROPE","West&Central-Europe","WCE","Specialised beef","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"226","Low potential","EUROPE","West&Central-Europe","WCE","Specialised beef","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"227","Low potential","EUROPE","West&Central-Europe","WCE","Specialised beef","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"228","Low potential","EUROPE","West&Central-Europe","WCE","Specialised beef","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"229","Low potential","EUROPE","West&Central-Europe","WCE","Sheep","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"230","Low potential","EUROPE","West&Central-Europe","WCE","Sheep","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"231","Low potential","EUROPE","West&Central-Europe","WCE","Sheep","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"232","Low potential","EUROPE","West&Central-Europe","WCE","Goats","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"233","Low potential","EUROPE","West&Central-Europe","WCE","Goats","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"234","Low potential","EUROPE","West&Central-Europe","WCE","Goats","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"235","Low potential","EUROPE","West&Central-Europe","WCE","Pigs","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"236","Low potential","EUROPE","West&Central-Europe","WCE","Pigs","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"237","Low potential","EUROPE","West&Central-Europe","WCE","Pigs","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"238","Low potential","EUROPE","West&Central-Europe","WCE","Pigs","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"239","Low potential","EUROPE","West&Central-Europe","WCE","Pigs","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"240","Low potential","EUROPE","West&Central-Europe","WCE","Pigs","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"241","Low potential","EUROPE","E.Europe","EEU","Mixed dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"242","Low potential","EUROPE","E.Europe","EEU","Mixed dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"243","Low potential","EUROPE","E.Europe","EEU","Mixed dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"244","Low potential","EUROPE","E.Europe","EEU","Mixed dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"245","Low potential","EUROPE","E.Europe","EEU","Mixed dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"246","Low potential","EUROPE","E.Europe","EEU","Mixed dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"247","Low potential","EUROPE","E.Europe","EEU","Specialised dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"248","Low potential","EUROPE","E.Europe","EEU","Specialised dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"249","Low potential","EUROPE","E.Europe","EEU","Specialised dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"250","Low potential","EUROPE","E.Europe","EEU","Specialised dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"251","Low potential","EUROPE","E.Europe","EEU","Specialised dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"252","Low potential","EUROPE","E.Europe","EEU","Specialised dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"253","Low potential","EUROPE","E.Europe","EEU","Specialised beef","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"254","Low potential","EUROPE","E.Europe","EEU","Specialised beef","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"255","Low potential","EUROPE","E.Europe","EEU","Specialised beef","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"256","Low potential","EUROPE","E.Europe","EEU","Specialised beef","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"257","Low potential","EUROPE","E.Europe","EEU","Specialised beef","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"258","Low potential","EUROPE","E.Europe","EEU","Specialised beef","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"259","Low potential","EUROPE","E.Europe","EEU","Sheep","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"260","Low potential","EUROPE","E.Europe","EEU","Sheep","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"261","Low potential","EUROPE","E.Europe","EEU","Sheep","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"262","Low potential","EUROPE","E.Europe","EEU","Goats","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"263","Low potential","EUROPE","E.Europe","EEU","Goats","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"264","Low potential","EUROPE","E.Europe","EEU","Goats","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"265","Low potential","EUROPE","E.Europe","EEU","Pigs","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"266","Low potential","EUROPE","E.Europe","EEU","Pigs","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"267","Low potential","EUROPE","E.Europe","EEU","Pigs","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"268","Low potential","EUROPE","E.Europe","EEU","Pigs","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"269","Low potential","EUROPE","E.Europe","EEU","Pigs","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"270","Low potential","EUROPE","E.Europe","EEU","Pigs","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"271","Low potential","ASIA","Russian-Arctic","RAR","Mixed dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"272","Low potential","ASIA","Russian-Arctic","RAR","Mixed dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"273","Low potential","ASIA","Russian-Arctic","RAR","Mixed dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"274","Low potential","ASIA","Russian-Arctic","RAR","Mixed dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"275","Low potential","ASIA","Russian-Arctic","RAR","Mixed dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"276","Low potential","ASIA","Russian-Arctic","RAR","Mixed dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"277","Low potential","ASIA","Russian-Arctic","RAR","Specialised dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"278","Low potential","ASIA","Russian-Arctic","RAR","Specialised dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"279","Low potential","ASIA","Russian-Arctic","RAR","Specialised dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"280","Low potential","ASIA","Russian-Arctic","RAR","Specialised dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"281","Low potential","ASIA","Russian-Arctic","RAR","Specialised dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"282","Low potential","ASIA","Russian-Arctic","RAR","Specialised dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"283","Low potential","ASIA","Russian-Arctic","RAR","Specialised beef","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"284","Low potential","ASIA","Russian-Arctic","RAR","Specialised beef","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"285","Low potential","ASIA","Russian-Arctic","RAR","Specialised beef","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"286","Low potential","ASIA","Russian-Arctic","RAR","Specialised beef","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"287","Low potential","ASIA","Russian-Arctic","RAR","Specialised beef","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"288","Low potential","ASIA","Russian-Arctic","RAR","Specialised beef","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"289","Low potential","ASIA","Russian-Arctic","RAR","Sheep","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"290","Low potential","ASIA","Russian-Arctic","RAR","Sheep","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"291","Low potential","ASIA","Russian-Arctic","RAR","Sheep","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"292","Low potential","ASIA","Russian-Arctic","RAR","Goats","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"293","Low potential","ASIA","Russian-Arctic","RAR","Goats","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"294","Low potential","ASIA","Russian-Arctic","RAR","Goats","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"295","Low potential","ASIA","Russian-Arctic","RAR","Pigs","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"296","Low potential","ASIA","Russian-Arctic","RAR","Pigs","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"297","Low potential","ASIA","Russian-Arctic","RAR","Pigs","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"298","Low potential","ASIA","Russian-Arctic","RAR","Pigs","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"299","Low potential","ASIA","Russian-Arctic","RAR","Pigs","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"300","Low potential","ASIA","Russian-Arctic","RAR","Pigs","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"301","Low potential","ASIA","W.Siberia","WSB","Mixed dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"302","Low potential","ASIA","W.Siberia","WSB","Mixed dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"303","Low potential","ASIA","W.Siberia","WSB","Mixed dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"304","Low potential","ASIA","W.Siberia","WSB","Mixed dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"305","Low potential","ASIA","W.Siberia","WSB","Mixed dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"306","Low potential","ASIA","W.Siberia","WSB","Mixed dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"307","Low potential","ASIA","W.Siberia","WSB","Specialised dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"308","Low potential","ASIA","W.Siberia","WSB","Specialised dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"309","Low potential","ASIA","W.Siberia","WSB","Specialised dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"310","Low potential","ASIA","W.Siberia","WSB","Specialised dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"311","Low potential","ASIA","W.Siberia","WSB","Specialised dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"312","Low potential","ASIA","W.Siberia","WSB","Specialised dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"313","Low potential","ASIA","W.Siberia","WSB","Specialised beef","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"314","Low potential","ASIA","W.Siberia","WSB","Specialised beef","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"315","Low potential","ASIA","W.Siberia","WSB","Specialised beef","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"316","Low potential","ASIA","W.Siberia","WSB","Specialised beef","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"317","Low potential","ASIA","W.Siberia","WSB","Specialised beef","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"318","Low potential","ASIA","W.Siberia","WSB","Specialised beef","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"319","Low potential","ASIA","W.Siberia","WSB","Sheep","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"320","Low potential","ASIA","W.Siberia","WSB","Sheep","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"321","Low potential","ASIA","W.Siberia","WSB","Sheep","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"322","Low potential","ASIA","W.Siberia","WSB","Goats","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"323","Low potential","ASIA","W.Siberia","WSB","Goats","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"324","Low potential","ASIA","W.Siberia","WSB","Goats","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"325","Low potential","ASIA","W.Siberia","WSB","Pigs","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"326","Low potential","ASIA","W.Siberia","WSB","Pigs","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"327","Low potential","ASIA","W.Siberia","WSB","Pigs","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"328","Low potential","ASIA","W.Siberia","WSB","Pigs","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"329","Low potential","ASIA","W.Siberia","WSB","Pigs","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"330","Low potential","ASIA","W.Siberia","WSB","Pigs","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"331","Low potential","ASIA","E.Siberia","ESB","Mixed dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"332","Low potential","ASIA","E.Siberia","ESB","Mixed dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"333","Low potential","ASIA","E.Siberia","ESB","Mixed dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"334","Low potential","ASIA","E.Siberia","ESB","Mixed dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"335","Low potential","ASIA","E.Siberia","ESB","Mixed dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"336","Low potential","ASIA","E.Siberia","ESB","Mixed dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"337","Low potential","ASIA","E.Siberia","ESB","Specialised dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"338","Low potential","ASIA","E.Siberia","ESB","Specialised dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"339","Low potential","ASIA","E.Siberia","ESB","Specialised dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"340","Low potential","ASIA","E.Siberia","ESB","Specialised dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"341","Low potential","ASIA","E.Siberia","ESB","Specialised dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"342","Low potential","ASIA","E.Siberia","ESB","Specialised dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"343","Low potential","ASIA","E.Siberia","ESB","Specialised beef","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"344","Low potential","ASIA","E.Siberia","ESB","Specialised beef","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"345","Low potential","ASIA","E.Siberia","ESB","Specialised beef","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"346","Low potential","ASIA","E.Siberia","ESB","Specialised beef","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"347","Low potential","ASIA","E.Siberia","ESB","Specialised beef","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"348","Low potential","ASIA","E.Siberia","ESB","Specialised beef","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"349","Low potential","ASIA","E.Siberia","ESB","Sheep","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"350","Low potential","ASIA","E.Siberia","ESB","Sheep","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"351","Low potential","ASIA","E.Siberia","ESB","Sheep","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"352","Low potential","ASIA","E.Siberia","ESB","Goats","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"353","Low potential","ASIA","E.Siberia","ESB","Goats","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"354","Low potential","ASIA","E.Siberia","ESB","Goats","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"355","Low potential","ASIA","E.Siberia","ESB","Pigs","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"356","Low potential","ASIA","E.Siberia","ESB","Pigs","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"357","Low potential","ASIA","E.Siberia","ESB","Pigs","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"358","Low potential","ASIA","E.Siberia","ESB","Pigs","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"359","Low potential","ASIA","E.Siberia","ESB","Pigs","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"360","Low potential","ASIA","E.Siberia","ESB","Pigs","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"361","Low potential","ASIA","Russian-Far-East","RFE","Mixed dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"362","Low potential","ASIA","Russian-Far-East","RFE","Mixed dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"363","Low potential","ASIA","Russian-Far-East","RFE","Mixed dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"364","Low potential","ASIA","Russian-Far-East","RFE","Mixed dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"365","Low potential","ASIA","Russian-Far-East","RFE","Mixed dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"366","Low potential","ASIA","Russian-Far-East","RFE","Mixed dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"367","Low potential","ASIA","Russian-Far-East","RFE","Specialised dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"368","Low potential","ASIA","Russian-Far-East","RFE","Specialised dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"369","Low potential","ASIA","Russian-Far-East","RFE","Specialised dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"370","Low potential","ASIA","Russian-Far-East","RFE","Specialised dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"371","Low potential","ASIA","Russian-Far-East","RFE","Specialised dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"372","Low potential","ASIA","Russian-Far-East","RFE","Specialised dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"373","Low potential","ASIA","Russian-Far-East","RFE","Specialised beef","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"374","Low potential","ASIA","Russian-Far-East","RFE","Specialised beef","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"375","Low potential","ASIA","Russian-Far-East","RFE","Specialised beef","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"376","Low potential","ASIA","Russian-Far-East","RFE","Specialised beef","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"377","Low potential","ASIA","Russian-Far-East","RFE","Specialised beef","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"378","Low potential","ASIA","Russian-Far-East","RFE","Specialised beef","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"379","Low potential","ASIA","Russian-Far-East","RFE","Sheep","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"380","Low potential","ASIA","Russian-Far-East","RFE","Sheep","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"381","Low potential","ASIA","Russian-Far-East","RFE","Sheep","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"382","Low potential","ASIA","Russian-Far-East","RFE","Goats","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"383","Low potential","ASIA","Russian-Far-East","RFE","Goats","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"384","Low potential","ASIA","Russian-Far-East","RFE","Goats","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"385","Low potential","ASIA","Russian-Far-East","RFE","Pigs","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"386","Low potential","ASIA","Russian-Far-East","RFE","Pigs","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"387","Low potential","ASIA","Russian-Far-East","RFE","Pigs","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"388","Low potential","ASIA","Russian-Far-East","RFE","Pigs","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"389","Low potential","ASIA","Russian-Far-East","RFE","Pigs","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"390","Low potential","ASIA","Russian-Far-East","RFE","Pigs","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"391","Low potential","ASIA","E.Asia","EAS","Mixed dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"392","Low potential","ASIA","E.Asia","EAS","Mixed dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"393","Low potential","ASIA","E.Asia","EAS","Mixed dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"394","Low potential","ASIA","E.Asia","EAS","Mixed dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"395","Low potential","ASIA","E.Asia","EAS","Mixed dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"396","Low potential","ASIA","E.Asia","EAS","Mixed dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"397","Low potential","ASIA","E.Asia","EAS","Specialised dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"398","Low potential","ASIA","E.Asia","EAS","Specialised dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"399","Low potential","ASIA","E.Asia","EAS","Specialised dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"400","Low potential","ASIA","E.Asia","EAS","Specialised dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"401","Low potential","ASIA","E.Asia","EAS","Specialised dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"402","Low potential","ASIA","E.Asia","EAS","Specialised dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"403","Low potential","ASIA","E.Asia","EAS","Specialised beef","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"404","Low potential","ASIA","E.Asia","EAS","Specialised beef","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"405","Low potential","ASIA","E.Asia","EAS","Specialised beef","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"406","Low potential","ASIA","E.Asia","EAS","Specialised beef","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"407","Low potential","ASIA","E.Asia","EAS","Specialised beef","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"408","Low potential","ASIA","E.Asia","EAS","Specialised beef","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"409","Low potential","ASIA","E.Asia","EAS","Sheep","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"410","Low potential","ASIA","E.Asia","EAS","Sheep","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"411","Low potential","ASIA","E.Asia","EAS","Sheep","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"412","Low potential","ASIA","E.Asia","EAS","Goats","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"413","Low potential","ASIA","E.Asia","EAS","Goats","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"414","Low potential","ASIA","E.Asia","EAS","Goats","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"415","Low potential","ASIA","E.Asia","EAS","Pigs","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"416","Low potential","ASIA","E.Asia","EAS","Pigs","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"417","Low potential","ASIA","E.Asia","EAS","Pigs","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"418","Low potential","ASIA","E.Asia","EAS","Pigs","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"419","Low potential","ASIA","E.Asia","EAS","Pigs","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"420","Low potential","ASIA","E.Asia","EAS","Pigs","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"421","Low potential","ASIA","Arabian-Peninsula","ARP","Mixed dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"422","Low potential","ASIA","Arabian-Peninsula","ARP","Mixed dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"423","Low potential","ASIA","Arabian-Peninsula","ARP","Mixed dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"424","Low potential","ASIA","Arabian-Peninsula","ARP","Mixed dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"425","Low potential","ASIA","Arabian-Peninsula","ARP","Mixed dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"426","Low potential","ASIA","Arabian-Peninsula","ARP","Mixed dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"427","Low potential","ASIA","Arabian-Peninsula","ARP","Specialised dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"428","Low potential","ASIA","Arabian-Peninsula","ARP","Specialised dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"429","Low potential","ASIA","Arabian-Peninsula","ARP","Specialised dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"430","Low potential","ASIA","Arabian-Peninsula","ARP","Specialised dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"431","Low potential","ASIA","Arabian-Peninsula","ARP","Specialised dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"432","Low potential","ASIA","Arabian-Peninsula","ARP","Specialised dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"433","Low potential","ASIA","Arabian-Peninsula","ARP","Specialised beef","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"434","Low potential","ASIA","Arabian-Peninsula","ARP","Specialised beef","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"435","Low potential","ASIA","Arabian-Peninsula","ARP","Specialised beef","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"436","Low potential","ASIA","Arabian-Peninsula","ARP","Specialised beef","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"437","Low potential","ASIA","Arabian-Peninsula","ARP","Specialised beef","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"438","Low potential","ASIA","Arabian-Peninsula","ARP","Specialised beef","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"439","Low potential","ASIA","Arabian-Peninsula","ARP","Sheep","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"440","Low potential","ASIA","Arabian-Peninsula","ARP","Sheep","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"441","Low potential","ASIA","Arabian-Peninsula","ARP","Sheep","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"442","Low potential","ASIA","Arabian-Peninsula","ARP","Goats","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"443","Low potential","ASIA","Arabian-Peninsula","ARP","Goats","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"444","Low potential","ASIA","Arabian-Peninsula","ARP","Goats","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"445","Low potential","ASIA","Arabian-Peninsula","ARP","Pigs","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"446","Low potential","ASIA","Arabian-Peninsula","ARP","Pigs","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"447","Low potential","ASIA","Arabian-Peninsula","ARP","Pigs","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"448","Low potential","ASIA","Arabian-Peninsula","ARP","Pigs","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"449","Low potential","ASIA","Arabian-Peninsula","ARP","Pigs","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"450","Low potential","ASIA","Arabian-Peninsula","ARP","Pigs","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"451","Low potential","OCEANIA","N.Australia","NAU","Mixed dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"452","Low potential","OCEANIA","N.Australia","NAU","Mixed dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"453","Low potential","OCEANIA","N.Australia","NAU","Mixed dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"454","Low potential","OCEANIA","N.Australia","NAU","Mixed dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"455","Low potential","OCEANIA","N.Australia","NAU","Mixed dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"456","Low potential","OCEANIA","N.Australia","NAU","Mixed dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"457","Low potential","OCEANIA","N.Australia","NAU","Specialised dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"458","Low potential","OCEANIA","N.Australia","NAU","Specialised dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"459","Low potential","OCEANIA","N.Australia","NAU","Specialised dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"460","Low potential","OCEANIA","N.Australia","NAU","Specialised dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"461","Low potential","OCEANIA","N.Australia","NAU","Specialised dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"462","Low potential","OCEANIA","N.Australia","NAU","Specialised dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"463","Low potential","OCEANIA","N.Australia","NAU","Specialised beef","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"464","Low potential","OCEANIA","N.Australia","NAU","Specialised beef","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"465","Low potential","OCEANIA","N.Australia","NAU","Specialised beef","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"466","Low potential","OCEANIA","N.Australia","NAU","Specialised beef","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"467","Low potential","OCEANIA","N.Australia","NAU","Specialised beef","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"468","Low potential","OCEANIA","N.Australia","NAU","Specialised beef","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"469","Low potential","OCEANIA","N.Australia","NAU","Sheep","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"470","Low potential","OCEANIA","N.Australia","NAU","Sheep","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"471","Low potential","OCEANIA","N.Australia","NAU","Sheep","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"472","Low potential","OCEANIA","N.Australia","NAU","Goats","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"473","Low potential","OCEANIA","N.Australia","NAU","Goats","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"474","Low potential","OCEANIA","N.Australia","NAU","Goats","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"475","Low potential","OCEANIA","N.Australia","NAU","Pigs","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"476","Low potential","OCEANIA","N.Australia","NAU","Pigs","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"477","Low potential","OCEANIA","N.Australia","NAU","Pigs","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"478","Low potential","OCEANIA","N.Australia","NAU","Pigs","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"479","Low potential","OCEANIA","N.Australia","NAU","Pigs","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"480","Low potential","OCEANIA","N.Australia","NAU","Pigs","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"481","Low potential","OCEANIA","C.Australia","CAU","Mixed dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"482","Low potential","OCEANIA","C.Australia","CAU","Mixed dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"483","Low potential","OCEANIA","C.Australia","CAU","Mixed dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"484","Low potential","OCEANIA","C.Australia","CAU","Mixed dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"485","Low potential","OCEANIA","C.Australia","CAU","Mixed dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"486","Low potential","OCEANIA","C.Australia","CAU","Mixed dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"487","Low potential","OCEANIA","C.Australia","CAU","Specialised dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"488","Low potential","OCEANIA","C.Australia","CAU","Specialised dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"489","Low potential","OCEANIA","C.Australia","CAU","Specialised dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"490","Low potential","OCEANIA","C.Australia","CAU","Specialised dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"491","Low potential","OCEANIA","C.Australia","CAU","Specialised dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"492","Low potential","OCEANIA","C.Australia","CAU","Specialised dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"493","Low potential","OCEANIA","C.Australia","CAU","Specialised beef","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"494","Low potential","OCEANIA","C.Australia","CAU","Specialised beef","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"495","Low potential","OCEANIA","C.Australia","CAU","Specialised beef","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"496","Low potential","OCEANIA","C.Australia","CAU","Specialised beef","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"497","Low potential","OCEANIA","C.Australia","CAU","Specialised beef","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"498","Low potential","OCEANIA","C.Australia","CAU","Specialised beef","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"499","Low potential","OCEANIA","C.Australia","CAU","Sheep","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"500","Low potential","OCEANIA","C.Australia","CAU","Sheep","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"501","Low potential","OCEANIA","C.Australia","CAU","Sheep","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"502","Low potential","OCEANIA","C.Australia","CAU","Goats","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"503","Low potential","OCEANIA","C.Australia","CAU","Goats","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"504","Low potential","OCEANIA","C.Australia","CAU","Goats","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"505","Low potential","OCEANIA","C.Australia","CAU","Pigs","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"506","Low potential","OCEANIA","C.Australia","CAU","Pigs","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"507","Low potential","OCEANIA","C.Australia","CAU","Pigs","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"508","Low potential","OCEANIA","C.Australia","CAU","Pigs","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"509","Low potential","OCEANIA","C.Australia","CAU","Pigs","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"510","Low potential","OCEANIA","C.Australia","CAU","Pigs","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"511","Low potential","OCEANIA","E.Australia","EAU","Mixed dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"512","Low potential","OCEANIA","E.Australia","EAU","Mixed dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"513","Low potential","OCEANIA","E.Australia","EAU","Mixed dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"514","Low potential","OCEANIA","E.Australia","EAU","Mixed dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"515","Low potential","OCEANIA","E.Australia","EAU","Mixed dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"516","Low potential","OCEANIA","E.Australia","EAU","Mixed dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"517","Low potential","OCEANIA","E.Australia","EAU","Specialised dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"518","Low potential","OCEANIA","E.Australia","EAU","Specialised dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"519","Low potential","OCEANIA","E.Australia","EAU","Specialised dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"520","Low potential","OCEANIA","E.Australia","EAU","Specialised dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"521","Low potential","OCEANIA","E.Australia","EAU","Specialised dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"522","Low potential","OCEANIA","E.Australia","EAU","Specialised dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"523","Low potential","OCEANIA","E.Australia","EAU","Specialised beef","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"524","Low potential","OCEANIA","E.Australia","EAU","Specialised beef","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"525","Low potential","OCEANIA","E.Australia","EAU","Specialised beef","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"526","Low potential","OCEANIA","E.Australia","EAU","Specialised beef","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"527","Low potential","OCEANIA","E.Australia","EAU","Specialised beef","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"528","Low potential","OCEANIA","E.Australia","EAU","Specialised beef","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"529","Low potential","OCEANIA","E.Australia","EAU","Sheep","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"530","Low potential","OCEANIA","E.Australia","EAU","Sheep","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"531","Low potential","OCEANIA","E.Australia","EAU","Sheep","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"532","Low potential","OCEANIA","E.Australia","EAU","Goats","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"533","Low potential","OCEANIA","E.Australia","EAU","Goats","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"534","Low potential","OCEANIA","E.Australia","EAU","Goats","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"535","Low potential","OCEANIA","E.Australia","EAU","Pigs","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"536","Low potential","OCEANIA","E.Australia","EAU","Pigs","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"537","Low potential","OCEANIA","E.Australia","EAU","Pigs","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"538","Low potential","OCEANIA","E.Australia","EAU","Pigs","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"539","Low potential","OCEANIA","E.Australia","EAU","Pigs","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"540","Low potential","OCEANIA","E.Australia","EAU","Pigs","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"541","Low potential","OCEANIA","S.Australia","SAU","Mixed dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"542","Low potential","OCEANIA","S.Australia","SAU","Mixed dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"543","Low potential","OCEANIA","S.Australia","SAU","Mixed dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"544","Low potential","OCEANIA","S.Australia","SAU","Mixed dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"545","Low potential","OCEANIA","S.Australia","SAU","Mixed dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"546","Low potential","OCEANIA","S.Australia","SAU","Mixed dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"547","Low potential","OCEANIA","S.Australia","SAU","Specialised dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"548","Low potential","OCEANIA","S.Australia","SAU","Specialised dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"549","Low potential","OCEANIA","S.Australia","SAU","Specialised dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"550","Low potential","OCEANIA","S.Australia","SAU","Specialised dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"551","Low potential","OCEANIA","S.Australia","SAU","Specialised dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"552","Low potential","OCEANIA","S.Australia","SAU","Specialised dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"553","Low potential","OCEANIA","S.Australia","SAU","Specialised beef","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"554","Low potential","OCEANIA","S.Australia","SAU","Specialised beef","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"555","Low potential","OCEANIA","S.Australia","SAU","Specialised beef","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"556","Low potential","OCEANIA","S.Australia","SAU","Specialised beef","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"557","Low potential","OCEANIA","S.Australia","SAU","Specialised beef","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"558","Low potential","OCEANIA","S.Australia","SAU","Specialised beef","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"559","Low potential","OCEANIA","S.Australia","SAU","Sheep","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"560","Low potential","OCEANIA","S.Australia","SAU","Sheep","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"561","Low potential","OCEANIA","S.Australia","SAU","Sheep","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"562","Low potential","OCEANIA","S.Australia","SAU","Goats","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"563","Low potential","OCEANIA","S.Australia","SAU","Goats","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"564","Low potential","OCEANIA","S.Australia","SAU","Goats","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"565","Low potential","OCEANIA","S.Australia","SAU","Pigs","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"566","Low potential","OCEANIA","S.Australia","SAU","Pigs","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"567","Low potential","OCEANIA","S.Australia","SAU","Pigs","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"568","Low potential","OCEANIA","S.Australia","SAU","Pigs","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"569","Low potential","OCEANIA","S.Australia","SAU","Pigs","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"570","Low potential","OCEANIA","S.Australia","SAU","Pigs","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"571","Low potential","OCEANIA","New-Zealand","NZ","Mixed dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"572","Low potential","OCEANIA","New-Zealand","NZ","Mixed dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"573","Low potential","OCEANIA","New-Zealand","NZ","Mixed dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"574","Low potential","OCEANIA","New-Zealand","NZ","Mixed dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"575","Low potential","OCEANIA","New-Zealand","NZ","Mixed dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"576","Low potential","OCEANIA","New-Zealand","NZ","Mixed dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"577","Low potential","OCEANIA","New-Zealand","NZ","Specialised dairy","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"578","Low potential","OCEANIA","New-Zealand","NZ","Specialised dairy","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"579","Low potential","OCEANIA","New-Zealand","NZ","Specialised dairy","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"580","Low potential","OCEANIA","New-Zealand","NZ","Specialised dairy","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"581","Low potential","OCEANIA","New-Zealand","NZ","Specialised dairy","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"582","Low potential","OCEANIA","New-Zealand","NZ","Specialised dairy","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"583","Low potential","OCEANIA","New-Zealand","NZ","Specialised beef","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"584","Low potential","OCEANIA","New-Zealand","NZ","Specialised beef","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"585","Low potential","OCEANIA","New-Zealand","NZ","Specialised beef","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"586","Low potential","OCEANIA","New-Zealand","NZ","Specialised beef","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"587","Low potential","OCEANIA","New-Zealand","NZ","Specialised beef","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"588","Low potential","OCEANIA","New-Zealand","NZ","Specialised beef","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"589","Low potential","OCEANIA","New-Zealand","NZ","Sheep","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"590","Low potential","OCEANIA","New-Zealand","NZ","Sheep","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"591","Low potential","OCEANIA","New-Zealand","NZ","Sheep","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"592","Low potential","OCEANIA","New-Zealand","NZ","Goats","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"593","Low potential","OCEANIA","New-Zealand","NZ","Goats","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"594","Low potential","OCEANIA","New-Zealand","NZ","Goats","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"595","Low potential","OCEANIA","New-Zealand","NZ","Pigs","Arid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"596","Low potential","OCEANIA","New-Zealand","NZ","Pigs","Arid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"597","Low potential","OCEANIA","New-Zealand","NZ","Pigs","Humid","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"598","Low potential","OCEANIA","New-Zealand","NZ","Pigs","Humid","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA
+"599","Low potential","OCEANIA","New-Zealand","NZ","Pigs","Temperate","Herd","System","Reduced embodied feed emissions",NA,NA,NA,NA
+"600","Low potential","OCEANIA","New-Zealand","NZ","Pigs","Temperate","Herd","Manure","Adoption of anaerobic digesters (%)",NA,NA,NA,NA

@@ -1,0 +1,24 @@
+var,Climate,climate_code,Direct_emissions,Factor_volatised,Fraction_volatised,Factor_leached,Fraction_leached
+Urea,wet,1,0.016,0.014,0.15,0.011,0.24
+Urea,moist,2,0.016,0.014,0.15,0.011,0.24
+Urea,dry,3,0.005,0.005,0.15,0,0
+Ammonium Nitrate,wet,1,0.016,0.014,0.08,0.011,0.24
+Ammonium Nitrate,moist,2,0.016,0.014,0.08,0.011,0.24
+Ammonium Nitrate,dry,3,0.005,0.005,0.08,0,0
+"Manure/compost, etc",wet,1,0.006,0.014,0.21,0.011,0.24
+"Manure/compost, etc",moist,2,0.006,0.014,0.21,0.011,0.24
+"Manure/compost, etc",dry,3,0.006,0.005,0.21,0,0
+Crop residues,wet,1,0.006,0.014,0.21,0.011,0.24
+Crop residues,moist,2,0.006,0.014,0.21,0.011,0.24
+Crop residues,dry,3,0.006,0.005,0.21,0,0
+"Urine/dung from grazed cattle, pigs, poultry",wet,1,0.006,0.014,0.21,0.011,0.24
+"Urine/dung from grazed cattle, pigs, poultry",moist,2,0.006,0.014,0.21,0.011,0.24
+"Urine/dung from grazed cattle, pigs, poultry",dry,3,0.002,0.005,0.21,0,0
+Urine dung from other grazed animals,wet,1,0.003,0.014,0.21,0.011,0.24
+Urine dung from other grazed animals,moist,2,0.003,0.014,0.21,0.011,0.24
+Urine dung from other grazed animals,dry,3,0.003,0.005,0.21,0,0
+Turnover of SOM,wet,1,0.006,NA,NA,NA,NA
+Turnover of SOM,moist,2,0.006,NA,NA,NA,NA
+Turnover of SOM,dry,3,0.006,NA,NA,NA,NA
+Flood,,,0.003,,,,
+Drainage,,,0.005,,,,
